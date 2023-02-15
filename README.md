@@ -1,4 +1,4 @@
-# Reading-LIst
+# Reading-List
 
 ## **Books**
 
