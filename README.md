@@ -8,7 +8,6 @@
 
 ### Chinese Articles
 
-Test aicommits
 
 ### English Articles
 
